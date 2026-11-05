@@ -1,0 +1,22 @@
+// Konten slide 6-9 (teks asli dipertahankan apa adanya)
+window.STRATEGY=[
+{id:"s6",acc:"#19c37d",pct:"50%",nm:"Tokopedia",rev:false,trans:"t-left",toast:"Ini belum bagian paling menarik.",
+ title:"A. Tokopedia – Main Fundraising Channel",pot:"Potensi awal: 50% | Proporsi normalisasi: 45,45%",
+ fok:"Fokus: Menjadi kanal utama penghimpunan dengan mengoptimalkan katalog campaign, kemudahan transaksi, dan promosi terarah.",
+ li:["Membangun atau mengoptimalkan official store/kanal resmi sesuai persyaratan Tokopedia.","Menyusun katalog campaign dengan pilihan nominal donasi, apabila mekanisme tersebut diizinkan platform.","Mengembangkan campaign tematik: pendidikan anak yatim, pangan dhuafa, pemberdayaan UMKM, dan kemanusiaan.","Mengoptimalkan judul, deskripsi, visual, kata kunci, dan kategori produk agar mudah ditemukan.","Mendorong trafik melalui media sosial, komunitas, mitra, dan jaringan donatur Rumah Yatim.","Menggunakan fitur promosi yang tersedia dan sesuai ketentuan platform."],
+ camp:"Contoh nama campaign: “Tokopedia Berbagi Kebaikan”."},
+{id:"s7",acc:"#ff7a2f",pct:"30%",nm:"Shopee",rev:true,trans:"t-zoom",
+ title:"B. Shopee – Mass Market Fundraising",pot:"Potensi awal: 30% | Proporsi normalisasi: 27,27%",
+ fok:"Fokus: Menjangkau calon donatur lebih luas melalui nominal partisipasi terjangkau dan momentum promosi.",
+ li:["Menyiapkan pilihan partisipasi nominal kecil, misalnya Rp5.000–Rp50.000, jika fitur dan kebijakan platform memungkinkan.","Mengaktifkan campaign pada momentum tanggal kembar dan periode kampanye tematik.","Menjalankan campaign rutin seperti Sedekah Jumat atau Berbagi Akhir Pekan.","Membuat materi promosi singkat yang mudah dibagikan melalui media sosial dan WhatsApp.","Mengajak komunitas, mitra, dan kreator konten untuk memperluas jangkauan.","Memanfaatkan voucher atau fitur promosi yang tersedia setelah memeriksa ketentuan dan dampak biayanya."],
+ camp:"Contoh nama campaign: “Shopee Berbagi – Satu Klik Sejuta Kebaikan”."},
+{id:"s8",acc:"#4aa3ff",pct:"15%",nm:"Blibli",rev:false,trans:"t-mask",
+ title:"C. Blibli – Corporate & Premium Donor Campaign",pot:"Potensi awal: 15% | Proporsi normalisasi: 13,64%",
+ fok:"Fokus: Mengembangkan donasi bernilai menengah dan besar serta peluang kolaborasi perusahaan.",
+ li:["Mengangkat campaign pendidikan, perlengkapan sekolah, dan pemberdayaan ekonomi.","Menyusun pilihan kontribusi menengah, misalnya Rp50.000, Rp100.000, Rp250.000, dan Rp500.000, sesuai mekanisme yang disetujui.","Menawarkan skema campaign kolaborasi perusahaan atau penggalangan kolektif karyawan.","Menampilkan tujuan program, kebutuhan penerima manfaat, dokumentasi, dan laporan dampak secara ringkas.","Menyusun materi khusus untuk mitra korporasi dan komunitas profesional.","Memastikan alur pembayaran, pencairan, dan pelaporan sesuai ketentuan Blibli."],
+ camp:"Contoh nama campaign: “Blibli Peduli Sesama”."},
+{id:"s9",acc:"#c26bff",pct:"15%",nm:"Lazada",rev:true,trans:"t-up",
+ title:"D. Lazada – Campaign Expansion Channel",pot:"Potensi awal: 15% | Proporsi normalisasi: 13,64%",
+ fok:"Fokus: Memperluas jangkauan calon donatur baru dan menguji campaign berbasis momentum.",
+ li:["Menyusun etalase campaign tematik sesuai kategori dan kebijakan platform.","Mengangkat program bantuan anak yatim, dhuafa, paket kebutuhan pokok, dan respons kemanusiaan.","Menjalankan promosi pada momentum tanggal kembar dan hari besar.","Menggunakan visual dan video storytelling yang menjelaskan masalah, solusi, dan dampak donasi.","Mendorong promosi silang melalui Instagram, TikTok, WhatsApp, dan kanal komunikasi Rumah Yatim.","Mengevaluasi biaya, performa trafik, konversi, dan pencairan dana secara berkala."],
+ camp:"Contoh nama campaign: “Lazada Berbagi Kebahagiaan”."}];
